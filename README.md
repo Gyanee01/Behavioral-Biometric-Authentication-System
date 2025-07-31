@@ -15,7 +15,6 @@ The challenge was to develop a solution for modern digital banking that addresse
 We have engineered a full-stack web application that replaces passwords with a dynamic, multi-layered security model. Instead of a simple pass/fail login, our solution calculates a real-time **"Trust Score"** for every authentication attempt. This score is an aggregate of several independent security checks, and access is only granted if the score surpasses a dynamically calculated threshold, making the system both highly secure and intelligent.
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6592c960-71c0-4d03-b0d3-7a33bd1f0d0e" /> | <img width="1920" height="1080" alt="Screenshot (338)" src="https://github.com/user-attachments/assets/c53bc472-6f92-48fb-a50d-3863c2d6cbc5" />
 
 
 
