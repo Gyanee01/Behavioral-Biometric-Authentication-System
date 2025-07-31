@@ -3,7 +3,6 @@
 A full-stack, password-less authentication platform for secure banking, designed to differentiate between legitimate users and fraudsters using a multi-layered trust score based on behavioral biometrics, device fingerprinting, and contextual data.
 
 ---
-<img width="1920" height="1080" alt="Screenshot (342)" src="https://github.com/user-attachments/assets/e9d73334-0261-4a4f-a5c1-10ada9498c1d" />
 
 ![Project Showcase](./assets/Dashboard.png)
 
@@ -22,7 +21,7 @@ We have engineered a full-stack web application that replaces passwords with a d
 
 | Sign Up Page | Login Page |
 | :---: | :---: |
-| ![Sign Up Page](path/to/your/signup_screenshot.png) | ![Login Page](path/to/your/login_screenshot.png) |
+| ![Sign Up Page](./assets/SignUp.png) | ![Login Page](./assets/Login.png) |
 
 ## 3. Key Features
 
